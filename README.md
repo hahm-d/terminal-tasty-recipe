@@ -41,9 +41,5 @@ Available Commands:
  2. Select 'tasty' for list of options
 
 
-GitHub
-URL: https://github.com/hahm-d/ruby-project-alt-guidelines-nyc01-seng-ft-062220
-
-
 Tasty API link 
 https://rapidapi.com/apidojo/api/tasty/details
